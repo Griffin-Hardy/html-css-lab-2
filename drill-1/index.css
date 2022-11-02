@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: lightgray;
+    height: 100vh;
+}
+
+
+
+.header {
+    background-color: rgba(96, 95, 95, 0.998);
+    height: 100px;
+}
+
+#middle > .upper{
+    background-color: white;
+    margin: auto;
+    width: 75%;
+    height: 70vh;
+}
+
+
+#middle > .lower {
+    background-color: black;
+    margin: auto;
+    width: 75%;
+    height: 20vh;
+    bottom: 0%;
+}
+
